@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: APIConselhos
+  profiles:
+    active: password
